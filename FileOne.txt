@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -16,3 +17,16 @@ Added in BranchOne.Updated
 
 New line
 
+=======
+From Master.
+
+
+
+Added in BranchOne. updated
+Line added using branchone
+
+
+
+New line
+
+>>>>>>> 3e9f550492819a96d52231523271b1c77e82f2de
