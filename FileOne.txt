@@ -1,5 +1,9 @@
+
 Master line updated using branchOne to show conflict
 
 Added in BranchOne
 Line added using branchone
+
+From Master
+
 
