@@ -1,9 +1,12 @@
 
-Master line updated using branchOne to show conflict
+From Master.
 
-Added in BranchOne
+
+
+Added in BranchOne. updated
 Line added using branchone
 
-From Master
 
+
+New line
 
