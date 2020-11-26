@@ -1,10 +1,15 @@
 
 
+
 From Master.
 
 
 
 Added in BranchOne. updated
+
+
+Added in BranchOne.Updated
+>>>>>>> 60ce1b2 (committed after clearing stash)
 Line added using branchone
 
 
